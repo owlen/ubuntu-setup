@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# updated for Kubuntu 14.04
+
 add-apt-repository ppa:bitcoin/bitcoin -y
 add-apt-repository ppa:webupd8team/java -y
 add-apt-repository ppa:libreoffice/ppa -y
